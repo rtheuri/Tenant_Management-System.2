@@ -1,4 +1,4 @@
-package com.example.tenantmanagementsystemgroupa
+package com.example.tenantmanagementsystem2
 
 // Data class to hold tenant information for the UI[cite: 35]
 data class Tenant(
